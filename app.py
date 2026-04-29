@@ -5,7 +5,7 @@ Simple application for CI/CD practice.
 
 def add(a, b):
     """Add two numbers."""
-    return a - b #BUG: should be a + b
+    return a + b #Fixed!
 
 
 def subtract(a, b):
